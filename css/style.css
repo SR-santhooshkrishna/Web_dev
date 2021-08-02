@@ -1,17 +1,32 @@
-.title{
+body{
 	color: royalblue;
 }
-h2{
-	color: deeppink;
+.contact-us{
+	color: darkred;
+	font-size: 20px;
 }
-.subtitle:hover{
-	color: green;
+.articals{
+	color: black;
 }
-/*1.first-child
-  2.last child
-  3.nth-child(number)
-  4.only-child=> only one child found*/
-
-li:only-child{
-	color: steelblue;
+.facebook > h1{
+	color: blue;
+}
+.instagram > h1{
+	color: darkslateblue;
+}
+aside{
+	width: 30%;
+	background-color: royalblue;
+	color: white;
+	float: right;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-right: 20px;
+	text-align: center;
+	border-radius: 30px;
+}
+footer{
+	color: white;
+	background-color: royalblue;
+	text-align: center;
 }
