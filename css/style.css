@@ -1,14 +1,15 @@
 body{
-	background: white;
+	background-color: white;
 }
-.content{
+.title{
 	color: royalblue;
 }
-.fonts{
-	font-size: 30px;
-	font-family: sans-serif;
+h2{
+	color: red;
 }
-#content{
-	color: ;
-
+.subtitle{
+	color: deeppink;
+}
+#subtitle{
+	color: green;
 }
