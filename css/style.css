@@ -1,15 +1,9 @@
-body{
-	background-color: white;
-}
 .title{
 	color: royalblue;
 }
 h2{
-	color: red;
-}
-.subtitle{
 	color: deeppink;
 }
-#subtitle{
+.subtitle:hover{
 	color: green;
 }
