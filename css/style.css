@@ -1,3 +1,21 @@
-h1{
+body{
+	background-color: white;
+}
+.pizza{
 	color: deeppink;
+}
+.pizza > p{
+	color: black;
+}
+.burger{
+	color: red;
+}
+.burger > p{
+	color: black;
+}
+.cocacola{
+	color: saddlebrown;
+}
+.cocacola > p{
+	color: black;
 }
