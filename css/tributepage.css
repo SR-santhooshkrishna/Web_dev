@@ -1,0 +1,43 @@
+.font{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(68, 68, 70);
+}
+.background{
+    background-color:#ddd;
+    margin: 70px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+.text-center{
+    text-align: center;
+}
+.text-pad{
+    padding-top: 70px;
+}
+.background > h1 {
+    font-size: 40px;
+}
+.background > p{
+    text-align: left;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+img{
+    border-radius: 50%;
+    height: 350px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.quote-pro{
+    background-color:rgb(134, 133, 133);
+    padding: 2px;
+}
+.life{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.content{
+    font-size: medium;
+    margin-left: 30px;
+}
